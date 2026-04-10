@@ -1,8 +1,0 @@
-{
-  "installCommand": "pnpm install",
-  "buildCommand": "pnpm run build"
-<<<<<<< HEAD
-}
-=======
-}
->>>>>>> c7f5b021d0eb06bb9acf2f8000cf6dec5d711bbf
